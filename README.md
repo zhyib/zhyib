@@ -1,4 +1,11 @@
-### Hi there 👋
+### AkiraZhyib's here 👋
+
+是告示板！
+
+~~暂时还没想好要写什么~~
+
+![](https://github.com/zhyib/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/zhyib/github-stats/blob/master/generated/overview.svg)
 
 <!--
 **zhyib/zhyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
