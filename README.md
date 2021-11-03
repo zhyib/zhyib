@@ -3,7 +3,7 @@
 是告示板！
 
 - 🔨 主要写点前端代码，这里会放一些自己的玩具
-- 📕 正在学习 Javascript 和 Unity
+- 📕 正在学习 Javascript 和 Typescript
 - 🐟 想摸鱼
 
 ![](https://github.com/zhyib/github-stats/blob/master/generated/languages.svg)
